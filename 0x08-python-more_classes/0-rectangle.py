@@ -1,8 +1,9 @@
-!/usr/bin/python3
-"""Documentation for basic Rectangle class"""
+#!/usr/bin/python3
+"""
+Doc for an empty class Rectangle
+"""
 
 
 class Rectangle:
-    """Initializes an empty Rectangle class"""
-
+    """Empty representation of a rectangle"""
     pass
