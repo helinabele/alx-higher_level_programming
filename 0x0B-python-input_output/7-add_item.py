@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-"A '7-add_item' function
+A '7-add_item' function
 """
 
 from sys import argv
